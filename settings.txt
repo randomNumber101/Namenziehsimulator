@@ -1,0 +1,28 @@
+//	 _________________________________________________________________
+// 	|	This is the settings file.						|
+//	|	 Lines starting with '//' will be ignored.			|
+// 	|	Please enter your information as described below.		|
+//	|	Write '#empty' if you don't need that information.		|
+//	|_________________________________________________________________	|
+//
+//	The path to the .csv user list:	
+C:\\Users\\MKhal\\Desktop\\Freizeit\\PV\\Namenziehsimulator\\users(pvid).csv
+//
+//	The path to the mail template file:
+C:\\Users\\MKhal\\Desktop\\Freizeit\\PV\\Namenziehsimulator\\mail.txt
+//
+//	The mail address the notifications will be sent from (in most cases your e-mail address):
+m.khal@outlook.de
+//
+//	Your mail login password:
+********
+//
+// 	Your e-mail providers' smtp server address (for example 'smtp-mail.outlook.com' for outlook)
+//	If you use another e-mail provider X just search for "X smtp server address" 
+outlook.office365.com
+//
+//	The directory in which the results will be saved in.
+C:\Users\MKhal\Desktop\Freizeit\PV\Namenziehsimulator\permut saver
+//
+// The CSV header format. Currently either 'pvid' or 'barsys'
+pvid

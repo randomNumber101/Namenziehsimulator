@@ -1,0 +1,29 @@
+Hi #u_name, 
+
+willkommen zur Aktivenfahrt-Zahnbürstenmörder Edition.
+
+Das Spiel beginnt, sobald du diese Nachricht liest.
+
+Dein Opfer ist #v_name. 
+
+Dein Opfer ist zu vorsichtig? Kein Problem!
+
+Warte bis das Auto deines Opfers abfährt, verstecke etwas Koks im Kofferraum und hinterlasse einen anonymen Tipp bei der Polizei.
+Ist das #v_name erstmal im Knast, kannst du deine Connections bei der Polnischen Mafia nutzen um das Gerücht zu streuen, die Person sei wergen Pedophilie hinter Gittern.
+Das Problem löst dann die gute Manier der Knastbewohner.
+
+Das dauert dir zur Lange?
+-> Stech doch einfach die Reifen ab! 
+ 
+
+Infos und Diskussionen ums Spiel findest du im Slack-Channel: #zahnbürstenmörder 
+und im PV Wiki unter: server.pvka.de/wiki/doku.php?id=misc:zahnbuerstenmoerder.
+
+Cheerio oder wie man in England sagt: Howdy! 
+(Hinweis: Echtes Morden ist zwar unmoralisch, aber regelkonform)
+
+______________________________________________________
+Folgende Personen sind deine Mitspieler: 
+
+#u_list
+______________________________________________________ 
